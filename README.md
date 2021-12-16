@@ -1,4 +1,4 @@
-# GroupActivity-F11
+# Longest Common Subsequence
 - Give the hardware and software requirements
 Hardware requirements are: 
 A normal pc or computer
